@@ -1,3 +1,4 @@
+[![Release](https://badgers.space//github/release/RyanGamingYT/Notepad)](https://github.com/RyanGamingYT/Notepad/releases/tag/v1.0)
 # Ryan's Notepad
 
 **Ryan's Notepad** is a simple text editor built using Python and the Tkinter library. It provides basic functionality for creating, opening, editing, and saving text files. The application includes features such as cutting, copying, pasting, finding text, and more.
@@ -41,7 +42,7 @@ An executable version of the text editor has been created and is available for d
 
 ## License
 
-[![License](https://badgers.space/badge/LICENSE/MIT%20LICENSE/green)](LICENSE)
+[![License](https://badgers.space//github/license/RyanGamingYT/Notepad)](LICENSE)
 
 ---
 
